@@ -1,4 +1,4 @@
-program SAMPAPI;
+program PASAPI;
 
 {$IFNDEF PASAPI}
 const PASAPI = 0;
